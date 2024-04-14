@@ -1,0 +1,19 @@
+p {
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#waitIDpls {
+    font-size: 24px;
+}
+
+#idonebuttwo {
+    color: blue;
+    font-size: 36px; 
+}
+
+#idtwobutfor{
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}
